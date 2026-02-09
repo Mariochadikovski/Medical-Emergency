@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Emergency Medical ID</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
+    h1 { color: darkred; text-align: center; }
+    .alert { color: red; font-weight: bold; }
+    .section { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <h1>🚑 Emergency Medical ID</h1>
+
+  <div class="section"><strong>Full Name:</strong> John Doe</div>
+  <div class="section"><strong>Date of Birth:</strong> 01/01/1980</div>
+  <div class="section"><strong>Blood Type:</strong> O+</div>
+  <div class="section alert"><strong>Allergies:</strong> Penicillin</div>
+  <div class="section"><strong>Medical Conditions:</strong> Asthma</div>
+  <div class="section"><strong>Medications:</strong> Albuterol</div>
+  <div class="section"><strong>Emergency Contact:</strong> Jane Doe 555-123-4567</div>
+  <div class="section"><strong>Notes:</strong> None</div>
+
+</body>
+</html>
